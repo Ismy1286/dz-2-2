@@ -6,3 +6,16 @@
 //
 
 import Foundation
+
+class Car {
+    var name: String = ""
+    var price: Double = 0
+    
+    init(nameP: String, priceP: Double) {
+        name = nameP
+        price = priceP
+    }
+}
+
+
+// commit

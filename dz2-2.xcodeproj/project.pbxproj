@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		CECD35D0271EDDEC003F2F09 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECD35CF271EDDEC003F2F09 /* main.swift */; };
+		CECD35D7271EDE30003F2F09 /* AvtoSalon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECD35D6271EDE30003F2F09 /* AvtoSalon.swift */; };
+		CECD35D9271EDE60003F2F09 /* Cars.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECD35D8271EDE60003F2F09 /* Cars.swift */; };
+		CECD35DB271EDE73003F2F09 /* OnlineMarket.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECD35DA271EDE73003F2F09 /* OnlineMarket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		CECD35CC271EDDEC003F2F09 /* dz2-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "dz2-2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CECD35CF271EDDEC003F2F09 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CECD35D6271EDE30003F2F09 /* AvtoSalon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvtoSalon.swift; sourceTree = "<group>"; };
+		CECD35D8271EDE60003F2F09 /* Cars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cars.swift; sourceTree = "<group>"; };
+		CECD35DA271EDE73003F2F09 /* OnlineMarket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineMarket.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				CECD35CF271EDDEC003F2F09 /* main.swift */,
+				CECD35D6271EDE30003F2F09 /* AvtoSalon.swift */,
+				CECD35D8271EDE60003F2F09 /* Cars.swift */,
+				CECD35DA271EDE73003F2F09 /* OnlineMarket.swift */,
 			);
 			path = "dz2-2";
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CECD35D0271EDDEC003F2F09 /* main.swift in Sources */,
+				CECD35D9271EDE60003F2F09 /* Cars.swift in Sources */,
+				CECD35DB271EDE73003F2F09 /* OnlineMarket.swift in Sources */,
+				CECD35D7271EDE30003F2F09 /* AvtoSalon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

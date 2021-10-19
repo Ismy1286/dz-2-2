@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+
+class OnlineMarket: AvtoSalon {
+    
+}
+
+
+
+// commit
